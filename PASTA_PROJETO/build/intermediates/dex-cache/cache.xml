@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wander\.android\build-cache\e06dd8aee409c9700b18f9bf33dcf5fbee5b62a6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\Wander\Desktop\UberS_ultimo\app\build\intermediates\pre-dexed\debug\classes_073b52af7a6637519e1018f578296bdac247cb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wander\.android\build-cache\682814162bc64f4825128a31d7a1a9ca278fe75c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\Wander\Desktop\UberS_ultimo\app\build\intermediates\pre-dexed\debug\classes_13afe4089d278d866ccff113c9e6a8013cba4a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wander\.android\build-cache\05518280ad7c54a4978b56168e72d8b5e105652f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\Wander\Desktop\UberS_ultimo\app\build\intermediates\pre-dexed\debug\classes_f6f0b01415e07c98dd16a9c052667682fa141b41.jar" />
+    </item>
+
+</items>
